@@ -127,4 +127,16 @@ Ce projet m'a permis de travailler sur :
 
 ## Aperçu du rapport
 
+### Vue générale
+
+![Vue générale du dashboard Power BI](screenshots/overview.png)
+
+### Détail par région
+
+![Analyse détaillée par région](screenshots/region_detail.png)
+
+### Analyse climatique et photovoltaïque
+
+![Analyse climatique et photovoltaïque](screenshots/climate_analysis.png)
+
 Les captures des principales pages du dashboard seront présentées dans cette section.
