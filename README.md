@@ -140,3 +140,8 @@ Ce projet m'a permis de travailler sur :
 ![Analyse climatique et photovoltaïque](screenshots/climate_analysis.png)
 
 Les captures des principales pages du dashboard seront présentées dans cette section.
+
+## Fichiers du projet
+
+- [Rapport Power BI en PDF](enedis_renewable_energy.pdf)
+- [Fichier Power BI](enedis_renewable_energy.pbix)
